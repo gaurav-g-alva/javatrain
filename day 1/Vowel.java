@@ -18,6 +18,7 @@ public class Vowel {
             default:System.out.println(a+ " is consonant");
                 break;
         }
+        sc.close();
     }
 }
 /*

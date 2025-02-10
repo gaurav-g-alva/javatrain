@@ -24,10 +24,16 @@
  prg name : <b>Shop.java</b>
 
  9. Print Hello 10 times using looping statements<br>
-    Print numbers from 1 - 10<br>
- prg name : <b>Hello.java</b>
 
- 10. Print the multiplication Table<br>
- Print the Even Numbers<br>
- Print Sum of Odd Numbers<br>
+ 10. Print numbers from 1 - 10<br>
+prg name : <b>Hello.java</b>
+
+ 11. Print the multiplication Table<br>
+ 12. Print the Even Numbers<br>
+ 13. Print Sum of Odd Numbers<br>
  prg name : <b>Tables.java</b>
+
+ 14. Sum of Even numbers form the given start to end <br>
+  prg name : <b>even.java</b><br>
+
+## DAY 2 <br>

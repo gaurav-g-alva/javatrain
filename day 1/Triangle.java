@@ -14,5 +14,6 @@ public class Triangle {
         {
             System.out.println("It is not a Triangle");
         }
+        sc.close();
     }
 }

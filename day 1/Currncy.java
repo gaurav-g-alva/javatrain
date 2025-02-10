@@ -45,5 +45,6 @@ public static void main(String[] args) {
        System.out.println("50 note : "+ notes);
        amt = amt%50;
   }
+  sc.close();
 }
 }

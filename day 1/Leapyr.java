@@ -12,5 +12,6 @@ public class Leapyr {
         else{
             System.out.println( year +" is Not leapyear");
         }
+        sc.close();
     }
 }

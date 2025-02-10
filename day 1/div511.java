@@ -12,6 +12,7 @@ public class div511 {
         {
             System.out.println("no "+a+" is not divisible by 5 & 11");
         }
+        sc.close();
 	}
 }
 
