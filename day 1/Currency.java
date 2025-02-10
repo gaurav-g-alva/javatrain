@@ -1,7 +1,7 @@
 //Check Number of notes required
 
 import java.util.Scanner;
-public class Currncy {
+public class Currency {
     /* public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the Currency: ");
