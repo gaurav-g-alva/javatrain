@@ -64,4 +64,10 @@ prg name : <b>Hello.java</b>
   7. Write a java program to find the Sum of the Digits.<br>
   prg name : <b>Sumofdigits.java</b><br>
 
+  8. Write a Java Program to revese the digits of a number<br>
+  prg name : <b>Reverse.java</b><br>
+
+  9. Write a Java Program to Check wheather the giver number is Palindrome or not<br>
+  prg name : <b>Palindrome.java</b><br>
+
   

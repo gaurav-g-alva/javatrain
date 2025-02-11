@@ -8,11 +8,11 @@ public class Palindrome {
         int num = sc.nextInt();
         int rev = reverse(num);
         if (num == rev) {
-            System.out.println("Palindrome");
+            System.out.println("It is a Palindrome");
         }
         else
         {
-            System.out.println("not palindrome");
+            System.out.println("It is not palindrome");
         }
         sc.close();
     }
