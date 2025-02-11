@@ -35,6 +35,7 @@ prg name : <b>Hello.java</b>
 
  14. Sum of Even numbers form the given start to end <br>
   prg name : <b>even.java</b><br>
+<hr>
 
 ## DAY 2 <br>
   1. Write a Java program to print * pattern<br>
@@ -81,5 +82,9 @@ prg name : <b>Hello.java</b>
 
   13. Write a Java Program to find if a given number is Harshad number or not<br>
   prg name : <b>Harshad.java</b><br>
+  <hr>
+
+## DAY 3 <br>
+  1. 
 
   
