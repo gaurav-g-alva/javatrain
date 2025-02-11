@@ -70,4 +70,13 @@ prg name : <b>Hello.java</b>
   9. Write a Java Program to Check wheather the giver number is Palindrome or not<br>
   prg name : <b>Palindrome.java</b><br>
 
+  10. Write the java program to find the Factor of a Given number <br>
+  prg name : <b>Factor.java</b><br>
+
+  11. Write the java program to find the Count of Factor of a Given number <br>
+  prg name : <b>CountFactor.java</b><br>
+
+  12. Write a Java Program to find the Prime numbers<br>
+  prg name : <b>PrimeNumbers.java</b><br>
+
   
