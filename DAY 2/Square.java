@@ -11,6 +11,7 @@ public class Square {
         for (int i = start; i <=end; i++){
             System.out.println("Square of "+ i+" is "+i*i);
         }
+        sc.close();
     }
 }
 
