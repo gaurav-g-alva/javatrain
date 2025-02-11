@@ -1,4 +1,5 @@
 //Write the java program to find the count of Factor of a Given number 
+
 import java.util.Scanner;
 
 public class CountFactor {
@@ -6,14 +7,33 @@ public class CountFactor {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number: ");
         int num = sc.nextInt();
-        int count=0;
-        for (int i = 1; i<=num; i++) {
+        /* int count=0;
+         for (int i = 1; i<=num; i++) {
             if (num %i==0) {
                 System.out.println(i+" is a factor of "+num);  
                 count++;
             }
         }
-        System.out.println("There are "+count+ " Factors for "+num); 
+        System.out.println("There are "+count+ " Factors for "+num); */
+
+
+        /* int count=2;
+        for (int i = 2; i<num; i++) {
+            if (num %i==0) {
+                System.out.println(i+" is a factor of "+num);  
+                count++;
+            }
+        }
+        System.out.println("There are "+count+ " Factors for "+num); */
+
+        int count=2;
+        for (int i = 2; i<=num/2; i++) {
+            if (num %i==0) {
+                System.out.println(i+" is a factor of "+num);  
+                count++;
+            }
+        }
+        System.out.println("There are "+count+ " Factors for "+num);
         sc.close();
     }
 }
