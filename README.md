@@ -79,4 +79,7 @@ prg name : <b>Hello.java</b>
   12. Write a Java Program to find the Prime numbers<br>
   prg name : <b>PrimeNumbers.java</b><br>
 
+  13. Write a Java Program to find if a given number is Harshad number or not<br>
+  prg name : <b>Harshad.java</b><br>
+
   
