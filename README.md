@@ -37,3 +37,18 @@ prg name : <b>Hello.java</b>
   prg name : <b>even.java</b><br>
 
 ## DAY 2 <br>
+  1. Write a Java program to print * pattern<br>
+  <b>*  *  *  * <br>
+    *  *  *  * <br>
+    *  *  *  * <br>
+    *  *  *  * <br></b>
+  2. Write a Java program to print * pattern based on user input<br>
+  prg name : <b>Star.java</b><br>
+
+  3. Write a Java program to print the numbers <br>
+  1 2 3 4 <br>
+  5 6 7 8 <br>
+  9 10 11 12<br>
+  13 14 15 16<br>
+  prg name : <b>Numbers.java</b><br>
+  
