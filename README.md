@@ -51,4 +51,17 @@ prg name : <b>Hello.java</b>
   9 10 11 12<br>
   13 14 15 16<br>
   prg name : <b>Numbers.java</b><br>
+
+  4. Write a Java Program to Find the Factorial of a number 
+  prg name : <b>Factorial.java</b><br>
+
+  5. Find the Square of number between the range<br>
+  prg name : <b>Square.java</b><br>
+
+  6. Write a java program to count the digits in the number<br>
+  prg name : <b>Countdigit.java</b><br>
+
+  7. Write a java program to find the Sum of the Digits.<br>
+  prg name : <b>Sumofdigits.java</b><br>
+
   
