@@ -88,4 +88,11 @@ prg name : <b>Hello.java</b>
   1. Write a Java Program to find the ArmStrong Number<br>
   prg name : <b>Armstrong.java</b><br>
 
+  2. Write a java Program to Check if the given number is perfect number or not<br>
+  prg name : <b>Perfect.java</b><br>
+
+  3. Write a java Program to Check if the given number is Strong number or not<br>
+  prg name : <b>Strong.java</b><br>
+
+
   
