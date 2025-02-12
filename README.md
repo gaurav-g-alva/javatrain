@@ -38,14 +38,23 @@ prg name : <b>Hello.java</b>
 <hr>
 
 ## DAY 2 <br>
-|Questions|Program Name|
-|:---|:---:|
-|1. Write a Java program to print * pattern<br>
-  <b>*  *  *  * <br>*  *  *  * <br>*  *  *  * <br>*  *  *  * </b> | <b>Star.java</b><br> |
-|2. Write a Java program to print * pattern based on user input | <b>Star.java</b><br> |
-|3. Write a Java program to print the numbers 
-  <b> 1 2 3 4 <br> 5 6 7 8 <br> 9 10 11 12<br> 13 14 15 16 </b> | <b>Numbers.java</b><br> |
-|4. Write a Java Program to Find the Factorial of a number <br> | <b>Factorial.java</b><br> |
+  1. Write a Java program to print * pattern<br>
+  <b>*  *  *  * <br>
+    *  *  *  * <br>
+    *  *  *  * <br>
+    *  *  *  * <br></b>
+  2. Write a Java program to print * pattern based on user input<br>
+  prg name : <b>Star.java</b><br>
+
+  3. Write a Java program to print the numbers <br>
+  1 2 3 4 <br>
+  5 6 7 8 <br>
+  9 10 11 12<br>
+  13 14 15 16<br>
+  prg name : <b>Numbers.java</b><br>
+
+  4. Write a Java Program to Find the Factorial of a number 
+  prg name : <b>Factorial.java</b><br>
 
   5. Find the Square of number between the range<br>
   prg name : <b>Square.java</b><br>
@@ -76,8 +85,7 @@ prg name : <b>Hello.java</b>
   <hr>
 
 ## DAY 3 <br>
-|Questions|Program Name|
-  |---|---|
-  |1. Write a Java Program to find the ArmStrong Number | <b>Armstrong.java</b><br>
+  1. Write a Java Program to find the ArmStrong Number<br>
+  prg name : <b>Armstrong.java</b><br>
 
   
