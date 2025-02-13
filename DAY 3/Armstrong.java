@@ -5,6 +5,7 @@ public class Armstrong {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number: ");
         int num = sc.nextInt();
+        sc.close();
         int c = count(num); //Calling Count the Number of Digits method
         int arm = arm(num,c); //Calling Armstrong Number method
         if (num==arm) {
