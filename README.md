@@ -97,5 +97,46 @@ prg name : <b>Hello.java</b>
   4. ( Encapsulation ) Bank Account creation and accessing the values <br> 
   prg name : <b>1. BankAcc.java</b><br> <b>2. BankDriv.java</b><br> <b>3. Bac.java</b><br> <b>4. BacD.java</b><br>
 
+## DAY 4 <br>
+  1. Write a Java Program to print the * pattern in the Left Triangle.<br>
+<b> *<br>
+    *  *<br>
+    *  *  *<br>
+    *  *  *  *</b><br>
+  prg name : <b>LeftTri.java</b><br>
+
+  2. Write a Java Program to print the * pattern in the Right Inverted Triangle.
+<b> * * * * *<br>
+      * * * *<br>
+        * * *<br>
+          * *<br>
+            *</b><br>
+  prg name : <b>RightInv.java</b><br>
+
+  3. Write a Java Program to print the * pattern in the Left Inverted Triangle.
+<b>   * * * *<br>
+      * * *<br>
+      * *<br>
+      *</b><br>
+  prg name : <b>LeftInv.java</b><br>
+
+  4. Write a Java Program to print the * pattern in the Right Triangle.<br>
+  <b>      *</b><br>
+    <b>   * *</b><br>
+    <b>  * * *</b><br>
+    <b> * * * * </b> <br>
+  prg name : <b>RightTri.java</b><br>
+
+  5. Write a Java Program to print the Number  pattern in the Left Triangle.<br>
+  prg name : <b>LeftNum.java</b><br>
+
+  6. Write a Java Program to print the 0 1 pattern in Triangle.<br>
+  prg name : <b>ZeroOne.java</b><br>
+
+  7. Write a Java Program to Find the Fibonacci Series<br>
+  prg name : <b>Fibonacci.java</b><br>
+
+  7. Write a Java Program to HCF of Two numbers<br>
+  prg name : <b>Hcf.java</b><br>
 
   
