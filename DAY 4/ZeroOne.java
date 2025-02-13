@@ -1,3 +1,8 @@
+//Write a java Program to print the Zero and One
+// 1 1 1 1 
+// 0 0 0 
+// 1 1 
+// 0 
 import java.util.Scanner;
 
 public class ZeroOne {

@@ -105,38 +105,67 @@ prg name : <b>Hello.java</b>
     *  *  *  *</b><br>
   prg name : <b>LeftTri.java</b><br>
 
-  2. Write a Java Program to print the * pattern in the Right Inverted Triangle.
-<b> * * * * *<br>
-      * * * *<br>
-        * * *<br>
-          * *<br>
-            *</b><br>
+  2. Write a Java Program to print the * pattern in the Right Inverted Triangle.<br>
+  <b>x x x x x<br>
+  &nbsp;&nbsp;&nbsp;x x x x<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;x x x<br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;x x<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;x</b><br>
   prg name : <b>RightInv.java</b><br>
 
-  3. Write a Java Program to print the * pattern in the Left Inverted Triangle.
-<b>   * * * *<br>
-      * * *<br>
-      * *<br>
-      *</b><br>
+  3. Write a Java Program to print the * pattern in the Left Inverted Triangle.<br>
+<b>   x x x x<br>
+      x x x<br>
+      x x<br>
+      x</b><br>
   prg name : <b>LeftInv.java</b><br>
 
   4. Write a Java Program to print the * pattern in the Right Triangle.<br>
-  <b>      *</b><br>
-    <b>   * *</b><br>
-    <b>  * * *</b><br>
-    <b> * * * * </b> <br>
+  <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;x<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  x x<br>
+     &nbsp;&nbsp;&nbsp;&nbsp;x x x<br>
+     &nbsp;x x x x</b><br>
   prg name : <b>RightTri.java</b><br>
 
-  5. Write a Java Program to print the Number  pattern in the Left Triangle.<br>
+  5. Write a Java Program to print the Number  pattern in the Left Inverted Triangle.<br>
+  <b>1 1 1 1<br>
+    2 2 2 <br>
+    3 3 <br>
+    4<br></b>
   prg name : <b>LeftNum.java</b><br>
 
   6. Write a Java Program to print the 0 1 pattern in Triangle.<br>
+  <b>1 1 1 1<br>
+  0 0 0 <br>
+  1 1<br>
+  0</b><br>
   prg name : <b>ZeroOne.java</b><br>
 
   7. Write a Java Program to Find the Fibonacci Series<br>
   prg name : <b>Fibonacci.java</b><br>
 
-  7. Write a Java Program to HCF of Two numbers<br>
+  8. Write a Java Program to find the HCF of Two numbers<br>
   prg name : <b>Hcf.java</b><br>
+
+  9. Write a java program to Print the Alphabets in triangle<br>
+  <b> A <Br>
+    B C  <br> 
+    D E F  <br>
+    G H I J</b><br>
+  prg name : <b>LeftAlpha.java</b><br>
+
+  10. Write a java program to print the pattern of numbers<br>
+  <b>1 
+    2 2 <br>
+    1 2 3 <br>
+    4 4 4 4</b><br>
+  prg name : <b>Num.java</b><br>
+
+  11. Write a java program to print the * pyramid pattern<br>
+    <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;x <br>
+    &nbsp;&nbsp;&nbsp;x x x <br>
+  &nbsp;&nbsp;x x x x <br>
+x x x x x x</b><br>
+prg name : <b>Star.java</b><br>
 
   

@@ -1,3 +1,9 @@
+//Write a java Program to print the Numbers
+// 1 1 1 1 
+// 2 2 2   
+// 3 3     
+// 4
+
 import java.util.Scanner;
 
 public class LeftNum {
