@@ -96,6 +96,7 @@ prg name : <b>Hello.java</b>
 
   4. ( Encapsulation ) Bank Account creation and accessing the values <br> 
   prg name : <b>1. BankAcc.java</b><br> <b>2. BankDriv.java</b><br> <b>3. Bac.java</b><br> <b>4. BacD.java</b><br>
+  <hr>
 
 ## DAY 4 <br>
   1. Write a Java Program to print the * pattern in the Left Triangle.<br>
@@ -167,7 +168,28 @@ prg name : <b>Hello.java</b>
   &nbsp;&nbsp;x x x x <br>
   x x x x x x</b><br>
   prg name : <b>Star.java</b><br>
+  <hr>
 
 ## DAY 5 <br>
+  1. Write a Java Program to Take an array Input and Display it<br>
+  prg name : <b>Array.java</b><br>
 
+  2. Write a java program to Sum the up the elements of array<br>
+  prg name : <b>SumArray.java</b><br>
+
+  3. Write a java program to Swap 2 numbers<br>
+  prg name : <b>Swap.java</b><br>
+
+  4. Write java program to reverse the array elements using swapping of elements<br>
+  prg name : <b>RevArray.java</b><br>
+
+  5. Write the java Program to print the even numbers from an array<br>
+  prg name : <b>EvenNoArray.java</b><br>
+
+  6. Write a java program to Sort the elements of array using bubble sort<br>
+  prg name : <b>BubbleSort.java</b><br>
+
+  7. Write a java Program to Merge Two Arrays<br>
+  prg name : <b>MergeArray.java</b><br>
+  <hr>
   
