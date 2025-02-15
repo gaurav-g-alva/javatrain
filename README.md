@@ -43,18 +43,18 @@ prg name : <b>Hello.java</b>
 ## DAY 2 <br>
 
   1. Write a Java program to print *pattern<br>
-  <b>*  ***<br>
-    ***  *<br>
-    *  ***<br>
-    ***  * <br></b>
+  <b>xxxx<br>
+    xxxx<br>
+    xxxx<br>
+    xxxx<br></b>
   2. Write a Java program to print * pattern based on user input<br>
   prg name : <b>Star.java</b><br>
 
   3. Write a Java program to print the numbers <br>
-  1 2 3 4 <br>
+  <b>1 2 3 4 <br>
   5 6 7 8 <br>
   9 10 11 12<br>
-  13 14 15 16<br>
+  13 14 15 16</b><br>
   prg name : <b>Numbers.java</b><br>
 
   4. Write a Java Program to Find the Factorial of a number
@@ -108,10 +108,10 @@ prg name : <b>Hello.java</b>
 ## DAY 4 <br>
 
   1. Write a Java Program to print the *pattern in the Left Triangle.<br>
-  <b>*<br>
+  <b> * <br>
     **<br>
-    **  *<br>
-    *  **  *</b><br>
+    ***<br>
+    ****</b><br>
   prg name : <b>LeftTri.java</b><br>
 
   2. Write a Java Program to print the * pattern in the Right Inverted Triangle.<br>
@@ -164,7 +164,7 @@ prg name : <b>Hello.java</b>
   prg name : <b>LeftAlpha.java</b><br>
 
   10. Write a java program to print the pattern of numbers<br>
-  <b>1
+  <b> 1 <br>
     2 2 <br>
     1 2 3 <br>
     4 4 4 4</b><br>
