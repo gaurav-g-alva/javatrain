@@ -1,4 +1,4 @@
-//Write a Java Program to Findthe index of Given Number in an Array
+//Write a Java Program to Find the index of Given Number in an Array
 
 
 import java.util.Scanner;

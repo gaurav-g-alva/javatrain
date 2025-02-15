@@ -1,5 +1,7 @@
 # JAVA Traing Program by Qspiders @ VCET
+
 ## DAY 1 <br>
+
  1. Write a java program to find the  largest of 2 numbers<br>
  prg name : <b>Large2.java</b>
 
@@ -35,14 +37,16 @@ prg name : <b>Hello.java</b>
 
  14. Sum of Even numbers form the given start to end <br>
   prg name : <b>even.java</b><br>
+
 <hr>
 
 ## DAY 2 <br>
-  1. Write a Java program to print * pattern<br>
-  <b>*  *  *  * <br>
-    *  *  *  * <br>
-    *  *  *  * <br>
-    *  *  *  * <br></b>
+
+  1. Write a Java program to print *pattern<br>
+  <b>*  ***<br>
+    ***  *<br>
+    *  ***<br>
+    ***  * <br></b>
   2. Write a Java program to print * pattern based on user input<br>
   prg name : <b>Star.java</b><br>
 
@@ -53,7 +57,7 @@ prg name : <b>Hello.java</b>
   13 14 15 16<br>
   prg name : <b>Numbers.java</b><br>
 
-  4. Write a Java Program to Find the Factorial of a number 
+  4. Write a Java Program to Find the Factorial of a number
   prg name : <b>Factorial.java</b><br>
 
   5. Find the Square of number between the range<br>
@@ -82,9 +86,11 @@ prg name : <b>Hello.java</b>
 
   13. Write a Java Program to find if a given number is Harshad number or not<br>
   prg name : <b>Harshad.java</b><br>
+
   <hr>
 
 ## DAY 3 <br>
+
   1. Write a Java Program to find the ArmStrong Number<br>
   prg name : <b>Armstrong.java</b><br>
 
@@ -94,16 +100,18 @@ prg name : <b>Hello.java</b>
   3. Write a java Program to Check if the given number is Strong number or not<br>
   prg name : <b>Strong.java</b><br>
 
-  4. ( Encapsulation ) Bank Account creation and accessing the values <br> 
+  4. ( Encapsulation ) Bank Account creation and accessing the values <br>
   prg name : <b>1. BankAcc.java</b><br> <b>2. BankDriv.java</b><br> <b>3. Bac.java</b><br> <b>4. BacD.java</b><br>
+
   <hr>
 
 ## DAY 4 <br>
-  1. Write a Java Program to print the * pattern in the Left Triangle.<br>
-  <b> *<br>
-    *  *<br>
-    *  *  *<br>
-    *  *  *  *</b><br>
+
+  1. Write a Java Program to print the *pattern in the Left Triangle.<br>
+  <b>*<br>
+    **<br>
+    **  *<br>
+    *  **  *</b><br>
   prg name : <b>LeftTri.java</b><br>
 
   2. Write a Java Program to print the * pattern in the Right Inverted Triangle.<br>
@@ -150,13 +158,13 @@ prg name : <b>Hello.java</b>
 
   9. Write a java program to Print the Alphabets in triangle<br>
   <b> A <Br>
-    B C  <br> 
+    B C  <br>
     D E F  <br>
     G H I J</b><br>
   prg name : <b>LeftAlpha.java</b><br>
 
   10. Write a java program to print the pattern of numbers<br>
-  <b>1 
+  <b>1
     2 2 <br>
     1 2 3 <br>
     4 4 4 4</b><br>
@@ -168,9 +176,11 @@ prg name : <b>Hello.java</b>
   &nbsp;&nbsp;x x x x <br>
   x x x x x x</b><br>
   prg name : <b>Star.java</b><br>
+
   <hr>
 
 ## DAY 5 <br>
+
   1. Write a Java Program to Take an array Input and Display it<br>
   prg name : <b>Array.java</b><br>
 
@@ -191,6 +201,23 @@ prg name : <b>Hello.java</b>
 
   7. Write a java Program to Merge Two Arrays<br>
   prg name : <b>MergeArray.java</b><br>
+
   <hr>
   
 ## DAY 6 <br>
+
+  1. Write a Java Program to Add to 3 x 3 Matrix in 2D array<br>
+  prg name : <b>Add2DArray.java</b><br>
+
+  2. Write a java program For 2D Array and Print them<br>
+  prg name : <b>TwoDArray.java</b><br>
+
+  3. Write a Java Program to Find the index of Given Number in an Array<br>
+  prg name : <b>PrintIndex.java</b><br>
+
+  4. Write a Java Program to Search an elemen in the array usin Binary Search<br>
+  prg name : <b>BinarySearch.java</b><br>
+
+  <hr>
+
+## DAY 7 <br>
