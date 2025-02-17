@@ -1,7 +1,7 @@
 
 public class Phone extends Device {
-    long phoneNumber;
-    String networkType;
+    static long phoneNumber;
+    static String networkType;
 
     public static void displayPhoneDetails() {
         System.out.println("Phone Number : "+ phoneNumber);
