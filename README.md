@@ -101,7 +101,9 @@ prg name : <b>Hello.java</b>
   prg name : <b>Strong.java</b><br>
 
   4. ( Encapsulation ) Bank Account creation and accessing the values <br>
-  prg name : <b>1. BankAcc.java</b><br> <b>2. BankDriv.java</b><br> <b>3. Bac.java</b><br> <b>4. BacD.java</b><br>
+  prg name : <b>1. Bank / BankAcc.java</b><br> <b>2. Bank / BankDriv.java</b><br> <b>3. Bank / Bac.java</b><br> <b>4. Bank / BacD.java</b><br>
+
+  <b>Assignments : DAY 3 / Student</b><br>
 
   <hr>
 
@@ -177,6 +179,8 @@ prg name : <b>Hello.java</b>
   x x x x x x</b><br>
   prg name : <b>Star.java</b><br>
 
+  <b>Assignments : DAY 4 / Assignment</b><br>
+
   <hr>
 
 ## DAY 5 <br>
@@ -201,6 +205,8 @@ prg name : <b>Hello.java</b>
 
   7. Write a java Program to Merge Two Arrays<br>
   prg name : <b>MergeArray.java</b><br>
+
+<b>Assignments : DAY 5 / Assignment</b><br>
 
   <hr>
   
@@ -239,3 +245,9 @@ prg name : <b>Hello.java</b>
     <b>2. hierarchical / Parent.java</b><br>
     <b>3. hierarchical / Daughter.java</b><br>
     <b>4. hierarchical / Son.java</b><br>
+
+<b>Assignments : DAY 7 / Assignment</b><br>
+  <hr>
+
+## DAY 8 <br>
+
