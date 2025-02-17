@@ -221,3 +221,8 @@ prg name : <b>Hello.java</b>
   <hr>
 
 ## DAY 7 <br>
+  1. ( Inheritence Concept ) Acessing the Static and non-static members of the parent and child classes<br>
+  prg name : <b>1. Parent / child.java</b><br> <b>2. Parent / Parent.java</b><br>
+
+  2. Reverse the given number such that second half in first half and first half in second half , only for even inputs<br>
+  prg name : <b>RevEvenNo.java</b><br>
