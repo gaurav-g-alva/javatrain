@@ -259,7 +259,7 @@ prg name : <b>1. Early Instanciation / Driver.java</b><br>
 <b>3. Early Instanciation / Engine.java</b><br>
 
 2. A Lazy Instanciation Car Has Tyre Problem<br>
-prg name : <b>1. Lazy Instanciation / Driver.java</b><br>
+prg name : <b>1. Lazy Instanciation / Tyre.java</b><br>
 <b>2. Lazy Instanciation / Car.java</b><br>
 <b>3. Lazy Instanciation / Driver_1.java</b><br>
 
