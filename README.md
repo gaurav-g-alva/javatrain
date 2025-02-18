@@ -250,4 +250,24 @@ prg name : <b>Hello.java</b>
   <hr>
 
 ## DAY 8 <br>
+<b>  Has a Relationship</b><br>
+<b>  Has a Relationship</b> has Two types they are : <b> 1. Early Instanciation &nbsp;&nbsp;2. Lazy Instanciation</b>
 
+1. A Early Instanciation Car has a Engine Problem<br>
+prg name : <b>1. Early Instanciation / Driver.java</b><br>
+<b>2. Early Instanciation / Car.java</b><br>
+<b>3. Early Instanciation / Engine.java</b><br>
+
+2. A Lazy Instanciation Car Has Tyre Problem<br>
+prg name : <b>1. Lazy Instanciation / Driver.java</b><br>
+<b>2. Lazy Instanciation / Car.java</b><br>
+<b>3. Lazy Instanciation / Driver_1.java</b><br>
+
+3. A Lazy Instanciation Phone Has Sim Problem<br>
+prg name : <b>1. Lazy Instanciation / Driver.java</b><br>
+<b>2. Lazy Instanciation / Phone.java</b><br>
+<b>3. Lazy Instanciation / Sim.java</b><br>
+
+<hr>
+
+## DAY 9 <br>
