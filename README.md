@@ -267,7 +267,7 @@ prg name : <b>1. Lazy Instanciation / Tyre.java</b><br>
 prg name : <b>1. Lazy Instanciation / Driver.java</b><br>
 <b>2. Lazy Instanciation / Phone.java</b><br>
 <b>3. Lazy Instanciation / Sim.java</b><br>
-
+ 
 <hr>
 
 ## DAY 9 <br>
@@ -277,3 +277,11 @@ prg name : <b>1. Lazy Instanciation / Driver.java</b><br>
 
   2. Write a Java Program to reverse the given string with the Spaces<br>
   prg name : <b>ReverseString.java</b><br>
+
+  3. Method Overriding Example Using Parent and child<br>
+  prg name : <b>1. Method Overriding / Parent.java</b><br>
+  <b>2. Method Overriding / Child.java</b><br>
+
+  4. Method Shadowing Example Using Parent and child <br>
+  prg name : <b>1. Method Shadowing / Parent.java</b><br>
+  <b>2. Method Shadowing / Child.java</b><br>
