@@ -271,3 +271,9 @@ prg name : <b>1. Lazy Instanciation / Driver.java</b><br>
 <hr>
 
 ## DAY 9 <br>
+
+  1. Write a Java Program to Count the number of characters in the given String and revrse the string <br>
+  prg name : <b>Programming.java</b><br>
+
+  2. Write a Java Program to reverse the given string with the Spaces<br>
+  prg name : <b>ReverseString.java</b><br>
