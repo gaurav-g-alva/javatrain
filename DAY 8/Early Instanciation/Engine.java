@@ -1,5 +1,6 @@
 
 public class Engine {
+    public static char[] engineType;
     String company;
     int power;
 
