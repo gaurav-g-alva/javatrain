@@ -11,7 +11,8 @@ public class Swap {
             int temp = num1;
             num1 = num2;
             num2 = temp;
-        System.out.println(num1 + " num1 , "+ num2+" num2");
+            
+        System.out.println("Num 1 : "+num1+"\nNum 2 : "+num2);
     }
 }
 
@@ -19,3 +20,11 @@ public class Swap {
 // num1 = num1+num2;
 // num2 = num1-num2;
 // num1 = num1- num2;
+
+// using ^ (Bitwise XOR) swapping of two numbers 
+    // num1 = num1^num2;
+    // System.out.println("num 1 : "+num1);
+    // num2 = num1^num2;
+    // System.out.println("num 2 : "+num2);
+    // num1 = num1^num2;
+    // System.out.println("num 1 : "+num1);
