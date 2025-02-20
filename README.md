@@ -271,6 +271,7 @@ prg name : <b>1. Lazy Instanciation / Driver.java</b><br>
 <hr>
 
 ## DAY 9 <br>
+  <b>Polymorphism<br>Two Types of polymorphism :<br>1. Compile-time binding :Achieved using method overloading<br>2. Runt-time binding :Achieved using method overriding & method shadowing</b>
 
   1. Write a Java Program to Count the number of characters in the given String and revrse the string <br>
   prg name : <b>Programming.java</b><br>
@@ -285,3 +286,7 @@ prg name : <b>1. Lazy Instanciation / Driver.java</b><br>
   4. Method Shadowing Example Using Parent and child <br>
   prg name : <b>1. Method Shadowing / Parent.java</b><br>
   <b>2. Method Shadowing / Child.java</b><br>
+  <hr>
+
+## DAY 10 <br>
+<b>Abstraction </b>
