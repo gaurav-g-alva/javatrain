@@ -315,3 +315,18 @@ prg name : <b>1. Interface / Driver.java</b><br>
 
 4. Write a Java Program to check whether the given string is Anagram or not <br>
 prg name : <b>Anagram.java</b><br>
+<hr>
+
+## DAY 11 <br>
+
+1. Write a java program to print the Stars in Diamond Shape<br>
+prg name : <b>Pattern.java</b><br>
+
+2. Write a java program to Right Shift the elements in an Array<br>
+prg name : <b>RightShift.java</b><br>
+
+3. Write a java program to Remove the occurance of Elements in an Array<br>
+prg name : <b>Occurance.java</b><br>
+
+4. Write a java program to find the missing number in an Array , Given with minimum and maximum range<br>
+prg name : <b>missing.java</b><br>
