@@ -330,3 +330,6 @@ prg name : <b>Occurance.java</b><br>
 
 4. Write a java program to find the missing number in an Array , Given with minimum and maximum range<br>
 prg name : <b>missing.java</b><br>
+<hr>
+
+## DAY 12 <br>
