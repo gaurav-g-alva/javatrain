@@ -333,3 +333,12 @@ prg name : <b>missing.java</b><br>
 <hr>
 
 ## DAY 12 <br>
+
+  1. Storing Various data in the Array list <br>
+  prg name : <b>Arraylist / Arraylist.java</b><br>
+
+  2. Singleton Class Implementation <br>
+  prg name : <b>Singleton / Singleton.java</b><br>
+  <b>Singleton / Driver.java</b><br>
+
+<hr>

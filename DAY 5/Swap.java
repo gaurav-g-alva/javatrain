@@ -12,14 +12,15 @@ public class Swap {
             num1 = num2;
             num2 = temp;
             
+            
         System.out.println("Num 1 : "+num1+"\nNum 2 : "+num2);
     }
 }
 
 // without temp variable
-// num1 = num1+num2;
-// num2 = num1-num2;
-// num1 = num1- num2;
+    // num1 = num1+num2;
+    // num2 = num1-num2;
+    // num1 = num1- num2;
 
 // using ^ (Bitwise XOR) swapping of two numbers 
     // num1 = num1^num2;
@@ -28,3 +29,6 @@ public class Swap {
     // System.out.println("num 2 : "+num2);
     // num1 = num1^num2;
     // System.out.println("num 1 : "+num1);
+
+// Swaping of two numbers in a single line of code
+    // num1 = num1 + num2 - (num2=num1);
